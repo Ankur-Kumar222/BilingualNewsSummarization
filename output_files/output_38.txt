@@ -1,0 +1,6 @@
+Error: HTTPSConnectionPool(host='www.
+ign.
+com', port=443): Max retries exceeded with url: /articles/among-us-dev-innersloth-announces-indie-fund-side-project-outersloth (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.
+c:997)')))
+
+URL: https://www.ign.com/articles/among-us-dev-innersloth-announces-indie-fund-side-project-outersloth

@@ -1,0 +1,243 @@
+This aim of this site is to provide high quality SoundFonts (virtual musical instruments in sf2 format) that can be played using a midi keyboard connected to a computer, tablet or smart phone.
+ Emphasis has been placed on real or acoustic instruments particularly piano and other favourites for keyboard players (pads, strings, electric pianos, organs and orchestral) but some SoundFonts here also include high quality guitars, some synths and ethnic instruments.
+ There are also some nice GM sets for playing general midi files.
+ The SoundFont format sf2 is widely supported by lots of programs/apps and devices.
+  News: -March 2023 a new Steinway Model B -May 2022 New Yamaha S6 Grand available -February 2022 New Fazioli F308 Grand available  -December 2020 Mason & Hamlin Model A Grand added -September 2020 Updated Pianos in General Midi SoundFont -June 2018 Salamander Grands available for Korg Pa series YouTube Demo Yamaha C5 (Salamander Grand) Demo  Mason & Hamlin Model A Large Concert Grand Demo  Chateau Grand Demo  Steinway Grand Pop Demo Steinway Grand Classical Demo  Essential Keys sforzando (Other Instruments) Demo General Midi (SGMv2.
+01-Nice-Piano-Guit-Bass) General Midi (SGMv2.
+01-Steinway-Guit-Bass)  Download Links (sf2 files): Essential Instruments sets function as a sound module for playing your instruments (includes Pianos, EPs, Organs, Strings, Flutes, Sax, Trumpet and Guitars) with 3  detailed (6-velocity-layered) sampled pianos (Yamaha C5 Grand, Upright Piano, Chateau Grand) and a Large Grand that draws on extra sampled resonances.
+ Essential Keys-sforzando-v9.
+6   (968mb)    **Favorite Set for PC** Especially suitable for the free Windows/Mac player sforzando by Plogue and works with many other players.
+ Full Instrument List here  Version 2 (same as above but Instruments organised in 3 Banks (Keys, Instruments, Guitars) making it easier to navigate to your instruments: Essential Keys-sfzBanks-v9.
+6   (968mb)    zip Essential Instruments plus 3 great pianos Essential Keys-bs16i-v11.
+1       (750mb)    Suitable for the iOS SoundFont player bs-16i for iPad Air 2 and iPhone 6s (2gb ram) and above.
+ (If your device is at the minimum specs then load the default soundfont/wavetable in bs-16i first to clear your ram).
+  How much Ram does my iPad/iPhone have? Go to iOS Ram List .
+  You can customize the size of your SoundFont - see page 3 of this site for details.
+ Essential Keys-SF-v1.
+3   (926mb)    Designed to play well on the iOS app SoundFonts (B-Ray Software).
+  A full suite of sounds including 3 different pianos (6 velocity layers), EP's, Organs, Strings and Guitars.
+ Essential Keys-C-v1.
+0   (474mb)    All the sounds as above but with just one great piano (Yamaha C5).
+  This lower ram set works well with the iOS app JamKoo.
+ These next 2 sets are my **Favorite multi-instrument sets for iOS**  using the bs-16i app.
+ Extended Instrument Sets (many more than in the sets above including lots of great guitars, synths and many other instruments).
+ This first one includes one great piano with 4 levels of brightness.
+ ChateauGrand-Plus-Instruments-bs16i-v4   (553mb)  Updated  April 2023 Loads of lovely instruments and now includes improved Rhodes EPs.
+  As above but also includes Yamaha C5 Grands and extra piano presets including Large Concert Grands.
+   2Grands-Plus-Instruments-bs16i-v5.
+1   (779mb)   Updated  April 2023 Contains the Yamaha C5 Grand, Chateau Grand and loads of other instruments Steinway-Chateau-Plus-Instruments-v1.
+7   (790mb)  New April 2023 (updated May 2023)* Contains a beatiful 7 layer Steinway Grand (latest v5.
+1), Chateau Grand and loads of other instruments - a full keyboard performance set.
+  Tested on iPhone 13 using the bs-16i soundfont player app.
+  May not work on lower spec devices due to the size of this soundfont.
+ *My recommended best multi-instrument set for the bs-16i app for iOS.
+  Updated to include very much improved Rhodes EP's.
+  This set includes pianos, guitars, strings and lots of other instruments.
+ Includes Finger Bass, Picked Bass, Acoustic Bass and a nice Drum Kit plus Timpani.
+  All instruments are multi-velocity sampled (all basses have four velocity-layered samples) and have lots of expression.
+ Works with sforzando, bs-16i or just about any soundfont player.
+ Universally compatible.
+ Nice-Bass-Plus-Drums-v5.
+3   (60mb) Now includes GM standard preset numbers Timpani v2.
+0   (2.
+6mb)     A choice of 3 different timpani presets.
+ Dore Mark's NY S&S Model B-v5.
+2   (237mb)  New March 2023 (updated May 2023) Finally a really nice free Steinway with 7 velocity layers for outstanding playability and dynamics .
+  Dore Mark has posted a number of pianos on the pianobook site and has kindly given me permission to simplify them and convert to sf2 format.
+  This NY S&S Model B is great for Musescore or a pleasure to just play live.
+  There are 4 presets including dynamic, mellow and dark.
+ Dore Mark's Yamaha S6-v1.
+6   (362mb)    A new addition sampled by Dore Mark and converted to sf2 with permission.
+  The Yamaha S6 is a premium hand built piano with with a bright and full tone.
+  Dore has provided 7 velocity levels of sampling to give an outstandingg seamless tonal change over the velocity range.
+  The microphones were placed just at the right position to give the player the feeling they are seated in front of the real thing.
+  Plays nicely on sforzando or soundfont player apps like bs-16i, SoundFonts or JamKoo and great for Musescore.
+ Dore Mark's Fazioli F308-v3.
+0   (299mb)  (This first version tested to run well on iOS app bs-16i and on Plogue Sforzando for PC).
+  A large and resonant Italian piano sampled by Dore Mark.
+  This piano has a rich and even sound across the entire keyboard and plays loud and intimate sounds equally well from the 5 velocity layer audience perspective microphones.
+  A real pleasure to play with a nice connection to the keys and with long decay of pedal down samples.
+  Presets include Dynamic and Dark versions and latest v3.
+0 fixes fade problem.
+  Dore Mark's (SF) Fazioli-v2.
+5  (299mb)  (This version is tailored for the iOS app SoundFonts but may suit other players as well.
+)  The 3 presets including Dynamic and Dark will work better with this version for the SoundFonts app.
+ Chateau Grand-v2.
+2   (258mb)  Just one great piano with four levels of brightness to choose from.
+ This piano has loads of character with just the right amount of imperfection.
+ Suitable for bs-16i on iOS devices, or FluidSyth Midi Synthesizer for Android, sforzando, musescore and other soundfont players for PC.
+ The Bright, Dynamic, Studio and Dark Chateau Grands all draw from the same samples but use different filters to achieve the 4 different preset sounds.
+ This set (also the ones above) is the most efficient use of resources for the three Chateau Grands but if you want them separate see the single piano sets.
+   Nice-Steinway-v3.
+9  (204mb)     A classic Steinway Grand with 4 Preset variations (Classic, Bright, Mellow and Dark).
+ This piano is different because all 88 notes have been sampled and velocity.
+ Dynamics are achieved via filtering with 12 layers for seamless expression.
+ Nice-Steinway-Lite-v3.
+0    (71mb)   My most compact Steinway.
+  Still has 12 layers but 4 notes per octave sampled.
+  Still sounds very much the same as the big one! Piano Collection-SF4U-v1.
+5   (896mb)     New May 2023  *Recommended Set!* Contains the latest Steinways (v5.
+2) plus Yamaha C5 as well as Chateau Grand and an Upright Piano.
+  You will require an iPhone with at least 3gb of Ram.
+ Go to iOS Ram List   Tested and runs nicely on an iPhone 13 using the bismark bs-16i app.
+ Piano Collection-SF-BRay-v1.
+0   (896mb)  New May 2023 This version has been tailored to run well on the SondFonts app by B-Ray Software Single Piano Sets: Most have 6 velocity-layer sampling.
+  The Standard Steinway has 12 virtual layers and the Abbey Steinway has two sampled layers plus four extra virtual layers .
+ Yamaha C5 Grand-v2.
+4  (232mb)    A beautiful sounding 6 velocity-layer-sampled Yamaha C5 Grand [Salamander Grand by Alexander Holm https://rytmenpinne.
+wordpress.
+com/sounds-and-such/salamander-grandpiano/  (https://creativecommons.
+org/licenses/by/3.
+0/)].
+  Includes 4 presets including Mellow, Dark and Dynamic variations.
+  Suits most apps including bs-16i and sforzando and Musescore.
+  Yamaha Grand-iOS-v1.
+2  (232mb)    This full 6 velocity layer version is tailored for the iOS apps SoundFonts and JamKoo.
+ Three presets are included (Yamaha C5 Grand, Dynamic Grand and Mellow Grand).
+ 4U-Yamaha C5 Grand-v1.
+6   (237mb)   A more complex version including resonance that works with some players.
+ Yamaha-Grand-Lite-v2.
+0   (21mb)    A compact version of the Yamaha C5 Grand that suits most SoundFont players including bs-16i and sforzando.
+  Contains three presets Grand, Bright Grand and Dark Grand Yamaha-Grand-Lite-SF-v1.
+1    (21mb)    This compact version is tailored to suit iOS apps SoundFonts and JamKoo.
+ 4U-Upright Piano-v1.
+0   (202mb)   An interesting Upright with a touch of Honky Tonk.
+  Works great with most apps including Musescore.
+ 4U-Studio Chateau Grand-v1.
+0   (254 mb)    A nicely balanced medium tone piano with lots of character.
+  Great for Musescore.
+ 4U-Dynamic Chateau Grand-v1.
+2   (257mb)  Mellow Chateau updated to have smoother timbre changes.
+  This one also great for Musescore.
+ 4U-Dark Chateau Grand-v1.
+1   (257mb)   4U-Steinway-v3.
+6    (201mb)   This classic Steinway Grand and has loads of expression over the velocity range 4U-Mellow-Steinway-v3.
+6   (201mb) 4U-Bright-Steinway-v3.
+6    (200mb) Abbey-Steinway-D-v1.
+9    (38mb)      A Steinway-D sampled in a church with loads of natural resonance and reverb with an intimate and soulful sound.
+  Great for sforzando, SoundFonts and JamKoo apps and most players.
+ Abbey-Steinway-D-bs16i-v1.
+9  (38mb)  Same as above but tailored to sound best with the bs-16i app for iOS.
+ MasonHamlin-A-v7  (324mb)   This is an sf2 version of a beatifully sampled Mason & Hamlin Model A Grand sampled by Dore Mark.
+ The sfz and Kontakt versions are posted to Pianobook (see Acknowledgements Page).
+  A warm and inviting sound that plays nicely on sforzando with 4 microphone perspectives.
+ This version also has binaural microphone samples providing a very realistic experience using headphones.
+ MasonHamlin-A-CloseMic-v5.
+2  (206mb)   This version has the nice close microphone perspective as the main preset - tested and perfect for Musescore.
+ MasonHamlin-A-bs16i-v5.
+4   (324mb)   This version is tailored to work best with iOS app bs-16i including 4 mic perspectives.
+ Now includes binaural headphone samples.
+ MasonHamlin-A-JK-v5.
+2   (206mb)    A version tailored to work well with iOS app JamKoo or SoundFonts app with 3 mic perspectives.
+ Chateau Grand Lite-v1.
+0   (47mb)     A compact version of the Chateau Grand.
+  Suits most soundfont players including bs-16i and sforzando Chateau Grand-SF-Lite-v1.
+0   (47mb)    This compact version is tailored to suit iOS apps SoundFonts and JamKoo.
+ Clementi Fortepiano 1808 (Dore Mark)-v1.
+0  (248mb)  New April 2023 This 1808 Clementi Fortepiano is housed at San Francisco State University and was sampled by Dore Mark.
+ It has 4 responsive velocity layers and takes you back to the early 1800's.
+ Sets containing more than one piano: The next two are tailored for the bs-16i app: 4U-Concert-Chateau-Pianos-v2.
+9   (487mb)  Contains two sampled pianos (Yamaha C5 and Chateau Grand) together with a long sustained resonant version of the Yamaha which provides for a Large Concert Grand sound.
+ Works with the iOS app bs-16i.
+ This next comprehensive piano sets contain 3 sampled pianos (includes an Upright Piano in addition to the above) for the bs-16i app for iOS: **Favourite iOS Piano Set for bs-16i app** Concert-Chateau-Upright-Pianos-bs16i-v3.
+2   (666mb)     The Large Grands now have improved timbre over the velocity range.
+ This full 4 sampled pianos set is tailored for sforzando but is universally compatible: 4-Essential Pianos-sforzando-v1.
+6   (895mb)  zip  Includes 4 sampled pianos from this site.
+  Yamaha C5,  Chateau Grand, Upright Piano, and Steinway Grand.
+  (Plus a Large Concert Grand version of the C5).
+ SGM-v2.
+01-YamahaGrand-Guit-Bass-v2.
+7    (528mb)    This full General Midi set is based on the very good SGM-v2.
+01 soundfont (from http://www.
+geocities.
+jp/shansoundfont/) but includes the addition of a very detailed 6 velocity-layered Piano (232mb), (Standard and Bright) based on the Salamander Grand (Yamaha C5), nice expressive four velocity-layered Basses (51mb) and a new sweet sounding Steel Acoustic Guitar.
+ This is a great GM set for a full and authentic sounding backing band with General Midi Files.
+ It sounds great with the Sweet Midi app for iOS and other soundfont players.
+ SGM-v2.
+01-CompactGrand-Guit-Bass-v2.
+7    (316mb)   A compact version with a smaller version of the Salamander Piano modified by Ziya Mete Demircan.
+ Its only single velocity-layered but has filtering for expression and sounds quite nice.
+  This version is a good choice if memory space is a concern.
+ SGM-v2.
+01-HQ-v3.
+0  (346mb) My favorite set for General Midi.
+  It saves space by using the Salamander Piano mentioned above but has higher quality guitars taking the memory use up just a bit more.
+ Provides high quality GM midi performance without too much memory use.
+ SGM-v2.
+01-Steinway-Guit-Bass-v2.
+9    (500mb)  zip This version of the SGM-v2.
+01 General Midi Soundfont contains the Steinway Piano (Standard and Bright) instead of the Yamaha C5.
+  An alternative to the first GM set if you are looking for a different and interesting piano sound.
+ Guitars - Acoustic and Electric Best of Guitars-4U-v1.
+0   (45mb)    Nylon and Steel Acoustic Guitars (includes an extra new nylon) Nylon and Steel Guitars-4U-v2  (35mb)     Mandolin (both plucked and tremolo)  Chris Mandolin-4U-v3.
+0   (6mb)   A collection of very expressive Stings including a wonderful 3 layer violin , chamber strings and full orchestra.
+ Strings-4U-v1.
+0    (93mb)     Expressive Flute SSO v1.
+2   (25mb) A very realistic flute souced from Sonatina Symphonic Orchestra with soft, medium and overblown samples triggered at different velocity levels.
+ Motostoke and Glockenspiel Carillons-v3   (66mb)  New April 2023 Carillons are the largest musical instuments in the world.
+ Consisting of a series of fixed bells.
+  Sound is made when they are struck by clappers.
+ Daniel Militello - Creative Commons BY 3.
+0 Unported, modified by sounfonts4u.
+  Rhodes EPs Plus-v2.
+4   (113mb) Updated April 2023  Includes Rhodes EP's, DX7 and a new Wurlitzer Expressive EP.
+ Attention Korg Pa3x/4x owners and Pa700/1000 owners - I have a special version of the Yamaha C5 (Salamander) 6-velocity layer piano in .
+set format that will load to your Korg in compressed format at 116mb (equivalent to 232mb) - This set sounds great on the Korg and uses 22 oscillators for outstanding realism including resonance, key-off and pedal effects.
+ There is a download link on Korg forums here:   Piano for Korg Pa Series  or use the following links: To insert sounds in User 1 Korg Pa User 1 Set  To insert sounds in User 2 Korg Pa User 2 Set  Attention Yamaha P-121 or P-125 Digital Piano owners - I have four special SoundFonts tailored for the Yamaha P-121 or P-125 that work with the bs-16i app for iOS to add extra instruments to your digital piano.
+  These include high quality 6 layered long sample length pianos.
+ The instruments are all selectable simply using the buttons on your Yamaha P-121 or P-125 digital piano.
+ This is handy for live performances with the certainty of easily selecting sounds from the keyboard rather than your mobile or tablet.
+  {Turn Local Control on/off with Function C5 key (two octaves above middle C) to play these new instruments.
+  If using heaphones they sound best with the Stereo Optimizer Off (Piano+F3 key, - F#3 to turn back on later)}.
+ Minimum Specs to run these size soundfonts is iPhone 6s or iPad Air2 (2gb ram) P125-3Grands-Rhodes-Organs-bs16i-v3.
+0   (719mb)    This set adds 3 new pianos to your instrument selection (Large Concert Grand, Chateau Grand, Mason & Hamlin-A .
+  There are also some new pads, organs and EP's included as well that are all selectable with the instrument buttons on your keyboard.
+ Now with added Dark Concert Grand and Studio Grand.
+  Printable pdf Template for your P121/125 Keyboard Click Here  P125-2Grands-Guitars-Strings-bs16i-v3.
+0    (552mb)   This set includes 2 new sampled pianos (Large Concert Grand and Chateau Grand) plus some great Acoustic and Electric Guitars plus some new Strings/Orchestra sounds.
+ Layering of Strings/Pads etc.
+ still works direct from your keyboard and mixing volume is controllable with the app.
+  Printable pdf Template for your P121/125 keyboard Click Here  P125-2Grands-EPs-Guitars-bs16i-v3.
+1     (537mb)  This set has 2 sampled pianos both with bright and dark variations, plus Rhodes EP's, Wurlitzer EP and Acoustic and Electric Guitars.
+  There is a Printable pdf Template Instrument Click Here to place on your keyboard.
+ P125-S&S-2Grands-Rhodes-Guitars-v1.
+5    (598mb)  New April 2023 Similar to above but updated with Steinway Grand (latest v5.
+1) instead of the Yamaha C5 Grand and a better Rhodes EP selection.
+ Printable pdf Template for your P121/125 keyboard Click Here P125-Performer-POGS-v3.
+1   (538mb)   This set has 2 sampled Pianos, Church Organs, Acoustic Guitars and Strings/Orchestra.
+  This selection of instruments suits church/carols keyboard playing.
+  Printable pdf Template Click Here to place on your keyboard.
+  Some older sets also below (not updated for sometime now but contain a lot of different and useful instruments): Full Keys (Pianos, EPs, Pads, Strings, Orchestra, Synth and Organs): 1) Full Keys including 15 velocity layer Salamander Grand Piano and a full compliment of Instruments This comprehensive set contains the most detailed version of the Yamaha C5 Grand plus a full compliment of performance sounds to cover all your needs from pads, strings, EPs, orchestra, synth, organs, guitars and many other instruments.
+ At 971mb in size (with 592mb dedicated to one outstanding piano with five brightness levels to choose from) it is designed for the fussy pianist who also wants a full bank of sounds at their fingertips.
+     Nice-Keys-Suite-V1.
+0 zip   (971mb) (691 zipped)  2) Full Keys including 6 layered Salamander Grand plus an Upright Piano A slightly smaller set with two 6 layer pianos included plus all the other performance sounds except guitars.
+ The size of this set might suit if you want to run other ram intensive apps at the same time.
+ Nice-Keys-Complete-JNv2.
+0 zip   (749mb) (512 zipped) Some older files here: Nice-Keys-Ultimate-v2.
+3   (1,213mb) Nice-Keys-Extreme-v2.
+0    (1,054mb) Nice-Keys-Suite-v1.
+0     (994mb) _______________________________________________________________________________ Guitars: Suits most devices- Acoustic and electric guitars.
+ 1) Full Guitars  Guitars-Universal-V1.
+5 (150mb)  Compressed zip Google Drive: 2) Acoustic Guitars JNv2.
+4 (84mb) 3) Electric-Guitars-JNV4.
+4 (66mb) _______________________________________________________________________________ Piano:  (older sets - see near the top for the latest pianos) The following pianos are tailored for bs-16i: Yamaha-C5-Salamander-JNv5.
+1    (592mb) The bigger version of the Salamander Yamaha-C5 Grand.
+ This one has 15 velocity layers.
+ Yamaha-C5-Salamander-v1.
+0    (231mb) A compact 6 layer version of the above but sounds the same.
+ 1) Strings, Harp and Orchestra Includes the best strings and orchestral sounds with the addition of an expressive violin (only included in set 1 at the very top) and a beautiful harp (242mb) by Jason Sommerlad.
+ Nice-Strings-PlusOrchestra-v1.
+6   (421mb) 2) Two Harps, Strings and Orchestra Harps-Strings-Orchestra-V1.
+0   (550mb) Includes the above plus a second harp by Ethereal Winds.
+ 3) Piano and Orchestra Includes the best strings and orchestral sounds plus a nice 6-velocity-layer piano.
+ Nice-Piano-Orchestra-V1.
+1   (337mb) 1) Choir Voice Ooohs and Aaahs plus a solo voice with various presets with a nice clear sound.
+ KBH-Real-Choir-V2.
+5   (16.
+5mb) 2) Organs and Strings A set tailored just for various Organs (Rotary, Hammond, Pipe) as well as a full list of Orchestral Stringed Instruments.
+ Organs-Strings-V1.
+02   (205mb) Standard Acoustic Drum Kit.
+ Perfect for loading to Channel 10 if using channel select or just handy for that drum solo! PNS Drum Kit   (5.
+8mb) Go to Photos of Set Up Example for iOS Recommended Apps  Customizing Your SoundFont  Acknowledgements  Contact 
+
+URL: https://sites.google.com/site/soundfonts4u/

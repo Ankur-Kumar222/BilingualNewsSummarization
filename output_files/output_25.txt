@@ -1,0 +1,544 @@
+Anyone else? Makes ya feel like a dumb-dumb.
+ Also, people have niches.
+ I'm guessing you're knowledgeable in your particular niche, and so is everyone else in theirs.
+ HN is a broad church and you can find biologists and people who write optimising compilers, and either are going to look at the other's field with some bafflement.
+Also, remember how it goes with learning things:* Beginner: I have so much to learn .
+.
+.
+* Intermediate: I know everything!* Expert: I have so much to learn .
+.
+.
+You might know more than you think you know.
+ Also, remember how it goes with learning things:* Beginner: I have so much to learn .
+.
+.
+* Intermediate: I know everything!* Expert: I have so much to learn .
+.
+.
+You might know more than you think you know.
+ * Beginner: I have so much to learn .
+.
+.
+* Intermediate: I know everything!* Expert: I have so much to learn .
+.
+.
+You might know more than you think you know.
+ * Intermediate: I know everything!* Expert: I have so much to learn .
+.
+.
+You might know more than you think you know.
+ * Expert: I have so much to learn .
+.
+.
+You might know more than you think you know.
+ You might know more than you think you know.
+ 
+reply
+
+ If you want to take this stuff seriously, absolutely study computer science, and a little computer engineering as well.
+ When you really understand the fundamentals, you can pick up the rest.
+ 
+reply
+
+ If you want to get hired as programmer in AAA game development, then your job role starts to become more specialized as you move up, but that's true in a lot of environments.
+ And jobs for AAA game development are admittedly competitive, so the more value your bring, the more likely you are to be hired.
+ Sometimes that means being an uber elite coding ninja, but it also might mean that you are able to wear a lot of different hats, including skills that aren't programming.
+Anyway, I just want to say that jumping "in with minimal programming experience and try to muddle their way through by watching tutorial videos and stuff" is awesome, actually, especially if your end goal is making games itself.
+ Just do it! Anyway, I just want to say that jumping "in with minimal programming experience and try to muddle their way through by watching tutorial videos and stuff" is awesome, actually, especially if your end goal is making games itself.
+ Just do it! 
+reply
+
+ Balatro, a recently-released solo-dev indie game, is a great example of this.
+ I saw two tweets the other day that, together, support your point: "Balatro has a 5000 line if-else chain"[0] and "in the 3 months since Balatro has launched, it has been collectively played for a total of 6200 years"[1].
+[0]: https://www.
+reddit.
+com/r/gamedev/comments/1cbcmr0/how_is_it_.
+.
+.
+ (couldn't find the twitter link directly but summarized it from this reddit post)[1]: https://x.
+com/LocalThunk/status/1794876280997036443 [0]: https://www.
+reddit.
+com/r/gamedev/comments/1cbcmr0/how_is_it_.
+.
+.
+ (couldn't find the twitter link directly but summarized it from this reddit post)[1]: https://x.
+com/LocalThunk/status/1794876280997036443 [1]: https://x.
+com/LocalThunk/status/1794876280997036443 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ I was in this phase about a decade ago, which was just a few years into my professional life.
+ I knew nothing back then and I know very little now.
+ 
+reply
+
+ Had posts I submitted as a second, even third or fourth thought, from reading the night before that interested me, and was sure no one would care about get picked up to be on the front page.
+Don't overthink it.
+ If you have something interesting to show or say then go for it as long as it's within the guidelines.
+ Otherwise if it doesn't attract attention maybe it wasn't that interesting after all, or it was good but not great.
+ There are only 30 spots on the front page and maybe your submission was 31/30 material at the end of the day.
+ Best to not worry or fret about it, if you think it's interesting, try submitting it!Have some faith in the editorial staff and HN as an institution that has endured for over a decade maintaining interesting content and discussion.
+ If it's truly good it will get selected for pool/invited or bubble up in the comments.
+Best of luck on your games and be kind!https://news.
+ycombinator.
+com/newsguidelines.
+htmlhttps://github.
+com/minimaxir/hacker-news-undocumented Don't overthink it.
+ If you have something interesting to show or say then go for it as long as it's within the guidelines.
+ Otherwise if it doesn't attract attention maybe it wasn't that interesting after all, or it was good but not great.
+ There are only 30 spots on the front page and maybe your submission was 31/30 material at the end of the day.
+ Best to not worry or fret about it, if you think it's interesting, try submitting it!Have some faith in the editorial staff and HN as an institution that has endured for over a decade maintaining interesting content and discussion.
+ If it's truly good it will get selected for pool/invited or bubble up in the comments.
+Best of luck on your games and be kind!https://news.
+ycombinator.
+com/newsguidelines.
+htmlhttps://github.
+com/minimaxir/hacker-news-undocumented Have some faith in the editorial staff and HN as an institution that has endured for over a decade maintaining interesting content and discussion.
+ If it's truly good it will get selected for pool/invited or bubble up in the comments.
+Best of luck on your games and be kind!https://news.
+ycombinator.
+com/newsguidelines.
+htmlhttps://github.
+com/minimaxir/hacker-news-undocumented Best of luck on your games and be kind!https://news.
+ycombinator.
+com/newsguidelines.
+htmlhttps://github.
+com/minimaxir/hacker-news-undocumented https://news.
+ycombinator.
+com/newsguidelines.
+htmlhttps://github.
+com/minimaxir/hacker-news-undocumented https://github.
+com/minimaxir/hacker-news-undocumented 
+reply
+
+ A lot of stuff simply gets lost on 'new'.
+ I mean how many people even go there? I rarely do so myself.
+ The cases in which I upvote a submission with very few points are usually when I want to submit something I found elsewhere and enter the link in the search before posting.
+ 
+reply
+
+ 
+reply
+
+ https://news.
+ycombinator.
+com/item?id=40616660 and https://news.
+ycombinator.
+com/item?id=40620056 
+reply
+
+ So just relax.
+ 
+reply
+
+ A lot of the stuff written here deploys in-jokes, memes, jargon/shibboleths of various tech subcultures:1.
+ (Coastal) startups.
+ Joining a YC startup and being surrounded by startup folks probably was the biggest factor in helping me to understand stuff here.
+ At my first job, I picked up a broad mix of SV tribal knowledge, technical skills, stuff about finance & investing, Agile and scrum and kanban and standups, stats knowledge, + the cool-kid tech products used by this subculture ("what? you got paid with paychex? uhm.
+ never heard of it.
+ here we use gusto") -- it was essentially an immersion course in 70% of the stuff you see on the front page of this site2.
+ Free-software types.
+ When I taught myself to code, I just stuck with Linux since I couldn't afford a macbook back then.
+ I participated in various open source projects and learned emacs, which made a lot more stuff on here understandable (like I started understanding acronyms like rms and esr, trivia about weird Linux/Unix shit I've had to debug like pulseaudio and systemd and CUPS, secret longstanding wars among various factions within this subculture)3.
+ Academics.
+ I went back to school and started doing research, and spent time learning about the weird CS-theory stuff that I find beautiful like abstract interpretation and programming language theory and functional programming.
+ My research area is far away from that stuff, but having some awareness of it helps me recognize the topics when they pop up hereAlso, keep in mind that the content on this site also tends to reflect specific technologies and practices that are common within these cultures.
+ There's a definite skew towards web and data oriented tech, so it makes sense that as a game dev, much of it wouldn't be comprehensible since you don't have context for it.
+It's also easy to forget if you mostly just get your tech news from this site, but most developers tend to work on Windows targeting Windows-oriented stacks (i.
+e.
+ Azure, on-prem Windows servers, ASP.
+NET Core, Power BI, SQL Server, etc) rather than macbooks -- so I suspect much of what you see on the front page of this site that is tech related is foreign to most developers.
+ In any case, I wouldn't feel too bad, and certainly not dumb for it 1.
+ (Coastal) startups.
+ Joining a YC startup and being surrounded by startup folks probably was the biggest factor in helping me to understand stuff here.
+ At my first job, I picked up a broad mix of SV tribal knowledge, technical skills, stuff about finance & investing, Agile and scrum and kanban and standups, stats knowledge, + the cool-kid tech products used by this subculture ("what? you got paid with paychex? uhm.
+ never heard of it.
+ here we use gusto") -- it was essentially an immersion course in 70% of the stuff you see on the front page of this site2.
+ Free-software types.
+ When I taught myself to code, I just stuck with Linux since I couldn't afford a macbook back then.
+ I participated in various open source projects and learned emacs, which made a lot more stuff on here understandable (like I started understanding acronyms like rms and esr, trivia about weird Linux/Unix shit I've had to debug like pulseaudio and systemd and CUPS, secret longstanding wars among various factions within this subculture)3.
+ Academics.
+ I went back to school and started doing research, and spent time learning about the weird CS-theory stuff that I find beautiful like abstract interpretation and programming language theory and functional programming.
+ My research area is far away from that stuff, but having some awareness of it helps me recognize the topics when they pop up hereAlso, keep in mind that the content on this site also tends to reflect specific technologies and practices that are common within these cultures.
+ There's a definite skew towards web and data oriented tech, so it makes sense that as a game dev, much of it wouldn't be comprehensible since you don't have context for it.
+It's also easy to forget if you mostly just get your tech news from this site, but most developers tend to work on Windows targeting Windows-oriented stacks (i.
+e.
+ Azure, on-prem Windows servers, ASP.
+NET Core, Power BI, SQL Server, etc) rather than macbooks -- so I suspect much of what you see on the front page of this site that is tech related is foreign to most developers.
+ In any case, I wouldn't feel too bad, and certainly not dumb for it 2.
+ Free-software types.
+ When I taught myself to code, I just stuck with Linux since I couldn't afford a macbook back then.
+ I participated in various open source projects and learned emacs, which made a lot more stuff on here understandable (like I started understanding acronyms like rms and esr, trivia about weird Linux/Unix shit I've had to debug like pulseaudio and systemd and CUPS, secret longstanding wars among various factions within this subculture)3.
+ Academics.
+ I went back to school and started doing research, and spent time learning about the weird CS-theory stuff that I find beautiful like abstract interpretation and programming language theory and functional programming.
+ My research area is far away from that stuff, but having some awareness of it helps me recognize the topics when they pop up hereAlso, keep in mind that the content on this site also tends to reflect specific technologies and practices that are common within these cultures.
+ There's a definite skew towards web and data oriented tech, so it makes sense that as a game dev, much of it wouldn't be comprehensible since you don't have context for it.
+It's also easy to forget if you mostly just get your tech news from this site, but most developers tend to work on Windows targeting Windows-oriented stacks (i.
+e.
+ Azure, on-prem Windows servers, ASP.
+NET Core, Power BI, SQL Server, etc) rather than macbooks -- so I suspect much of what you see on the front page of this site that is tech related is foreign to most developers.
+ In any case, I wouldn't feel too bad, and certainly not dumb for it 3.
+ Academics.
+ I went back to school and started doing research, and spent time learning about the weird CS-theory stuff that I find beautiful like abstract interpretation and programming language theory and functional programming.
+ My research area is far away from that stuff, but having some awareness of it helps me recognize the topics when they pop up hereAlso, keep in mind that the content on this site also tends to reflect specific technologies and practices that are common within these cultures.
+ There's a definite skew towards web and data oriented tech, so it makes sense that as a game dev, much of it wouldn't be comprehensible since you don't have context for it.
+It's also easy to forget if you mostly just get your tech news from this site, but most developers tend to work on Windows targeting Windows-oriented stacks (i.
+e.
+ Azure, on-prem Windows servers, ASP.
+NET Core, Power BI, SQL Server, etc) rather than macbooks -- so I suspect much of what you see on the front page of this site that is tech related is foreign to most developers.
+ In any case, I wouldn't feel too bad, and certainly not dumb for it Also, keep in mind that the content on this site also tends to reflect specific technologies and practices that are common within these cultures.
+ There's a definite skew towards web and data oriented tech, so it makes sense that as a game dev, much of it wouldn't be comprehensible since you don't have context for it.
+It's also easy to forget if you mostly just get your tech news from this site, but most developers tend to work on Windows targeting Windows-oriented stacks (i.
+e.
+ Azure, on-prem Windows servers, ASP.
+NET Core, Power BI, SQL Server, etc) rather than macbooks -- so I suspect much of what you see on the front page of this site that is tech related is foreign to most developers.
+ In any case, I wouldn't feel too bad, and certainly not dumb for it It's also easy to forget if you mostly just get your tech news from this site, but most developers tend to work on Windows targeting Windows-oriented stacks (i.
+e.
+ Azure, on-prem Windows servers, ASP.
+NET Core, Power BI, SQL Server, etc) rather than macbooks -- so I suspect much of what you see on the front page of this site that is tech related is foreign to most developers.
+ In any case, I wouldn't feel too bad, and certainly not dumb for it 
+reply
+
+ 
+reply
+
+ Or at least, they're not worth the hype they're given.
+ The wheel is constantly turning, and the hot new framework of today is just a re-hash of something already done years ago with a pretty facade.
+You probably learned the actual fundamentals of the web, which is exactly what a good developer should do.
+ Nowadays "frontend devs" don't know how to make the most basic functionality without React, Bootstrap, and 99 other pieces of bloat.
+Frankly the stuff I look at just disgusts me on a fundamental level.
+ Like as soon as you decide to use React, you've just mandated up to several megabytes of JavaScript simply to render your HTML.
+ That's abhorrent.
+ You probably learned the actual fundamentals of the web, which is exactly what a good developer should do.
+ Nowadays "frontend devs" don't know how to make the most basic functionality without React, Bootstrap, and 99 other pieces of bloat.
+Frankly the stuff I look at just disgusts me on a fundamental level.
+ Like as soon as you decide to use React, you've just mandated up to several megabytes of JavaScript simply to render your HTML.
+ That's abhorrent.
+ Frankly the stuff I look at just disgusts me on a fundamental level.
+ Like as soon as you decide to use React, you've just mandated up to several megabytes of JavaScript simply to render your HTML.
+ That's abhorrent.
+ 
+reply
+
+ 
+reply
+
+ You definitely don't need a framework and you might actually be able to avoid using JavaScript altogether.
+ I use jQuery only because I like the elegant/terse syntax and I struggle to think of any type of "ordinary" website where you'd need anything else.
+If you approach frontend like "I need to use React/Angular" then yeah, you're gonna bash your head against a wall, because it's an entire new ecosystem and paradigm to learn.
+ If you approach frontend like "I need to use React/Angular" then yeah, you're gonna bash your head against a wall, because it's an entire new ecosystem and paradigm to learn.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ I dont see how a single line of js can remove the need for front end design, complexities of scaling, theme choices, and user friendly design patterns with interactivity.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ However HN is definitely skewed towards the obscure and the nostalgic with a dash of genetics and cosmology.
+ Most of the programming happens in traditional languages - C/C++/C#/Java/Javascript/PHP/Python, and HN would make you believe everyone is writing functional stuff with monads and functors in LISP or Erlang.
+The community is great though, very knowledgeable.
+ The community is great though, very knowledgeable.
+ 
+reply
+
+ I admire people who unlike myself are sufficiently self contained not to need to post.
+ 
+reply
+
+ I lurk both in this world and in the world of Broadway.
+One of the biggest shockers I had (many years ago already) was how little anyone involved in making theater cares about the audience.
+ One of the biggest shockers I had (many years ago already) was how little anyone involved in making theater cares about the audience.
+ 
+reply
+
+ My big takeaway has been when that happens, I remind myself I'm not fit to judge if a comment is good/right or not.
+ I try to get a feel for the context of conversations and just kind of mentally file it away.
+I've learned a lot here over the years and the discussions sometimes remind of the good old days on slashdot.
+ I've learned a lot here over the years and the discussions sometimes remind of the good old days on slashdot.
+ 
+reply
+
+ If you're wondering about content like Rust or Haskell programming, the jargon and implied knowledge can be a little intimidating.
+  A lot of early Rust users were coming from advanced modern C++ and/or functional programming (FP) and use those concepts freely without assuming people might yet need to learn them.
+  A lot of Haskell people have learned ways of thinking from other Haskell people or other FP people and they don't feel the need to explain what they're doing all the time.
+  But it is intimidating.
+  However, it can also be fun.
+I'm the worst kind of hobbyist.
+  I almost never create anything anymore.
+  When I do, I usually don't use the cool stuff, just some Python, shell, or Awk.
+  But my hobby is learning about this stuff, what people are doing, and trying to figure out how people are thinking in different ways.
+  So I have done a bit of functional programming and read a lot of code.
+  I find it fascinating.
+  But nothing I have made in that area is worth looking at.
+ I'm the worst kind of hobbyist.
+  I almost never create anything anymore.
+  When I do, I usually don't use the cool stuff, just some Python, shell, or Awk.
+  But my hobby is learning about this stuff, what people are doing, and trying to figure out how people are thinking in different ways.
+  So I have done a bit of functional programming and read a lot of code.
+  I find it fascinating.
+  But nothing I have made in that area is worth looking at.
+ 
+reply
+
+ With the demise of the dead tree medium, I and my fellow geek brethren found HN as an alternative, to find crowd sourced and curated  articles of interest.
+Give it some time.
+ It will all start making sense.
+ Give it some time.
+ It will all start making sense.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ Sometimes topics you will be very familiar will be posted and you’ll notice that just because people comment doesn’t mean they know what they are talking about.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ I have studied Math/Comp.
+Sci.
+ I've been writing software professionally for a long time.
+ There are specialized topics I'm not an expert in that might go over my head, if I'm interested enough I'll spend time and dig deeper.
+My theory is that you want to have a big picture and be able to go into details when/where you need to.
+ My theory is that you want to have a big picture and be able to go into details when/where you need to.
+ 
+reply
+
+ It'll happen to you too if you stay around and continue engaging in discussions.
+ Don't be shy.
+ 
+reply
+
+ only 10% or so are real nerds or cracks in their field.
+ 
+reply
+
+ Also, even the things I do have some understanding of rarely come up in my software job.
+ So it's not like you need to know everything.
+ Seems like it's better to know less as long as you know just the right things.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ But reading Hacker News is always interesting, so here I am.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ The key is to be growimg what you know in your area.
+ 
+reply
+
+ I don't have formal programming, and it shows.
+ Gen AI has made it easier to build that stuff.
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ For borderline stuff reading the comments often helps highlight the significance 
+reply
+
+ 
+reply
+
+ 2.
+ ChatGPT is your friend.
+3.
+ Ask.
+ There are no dumb questions, despite the legions of idiots who say otherwise on forums like this one 3.
+ Ask.
+ There are no dumb questions, despite the legions of idiots who say otherwise on forums like this one 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ Game development even as a hobbyist is quite impressive.
+ The question is do you enjoy it enough to make a career from it?Either way keep treking along, you’re not the only one feeling that way.
+ Been there, done that, closed the gap and on to the next problem :) Either way keep treking along, you’re not the only one feeling that way.
+ Been there, done that, closed the gap and on to the next problem :) 
+reply
+
+ Most people use Unity these days.
+ I'm pretty sure it's in C#, and there was something about the licence recently that they probably backed down from.
+ You can still write in c with OpenGL, but you will probably have to create your own game engine(?).
+ You will need a game loop where you track the milliseconds elapsed each frame.
+ Try not to stutter in your game loop.
+ 16 ms.
+ Oh, and double-buffering the output is probably a good idea.
+See? Don't sound so smart now, do I? See? Don't sound so smart now, do I? 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ 
+reply
+
+ Often feeling dumb/not understanding is just a product of not having the prerequisites for something.
+ Basically all ideas and fields are accessible to people of modest intelligence with sufficient effort (and ability to pick one thing and stick with it).
+ The ones that are not fill with charlatans.
+ It can be boring to pay attention to technical details.
+ There is no moral superiority in doing so.
+When I've taught people who thought themselves to be dumb, I found that the negative self talk about being dumb was often rooted in either a feeling of guilt/badness or obligation, and the label of dumb solved the unhealthy feeling: "I'm just dumb, nothing I can do".
+ This is even more pronounced in cases where there is some resource the person needs that they don't have, where trying harder causes worse performance, or where they feel obligated to because they think like their preferred activity is less valuable/lower status.
+Realistically, it is necessary to pick how to spend your time, and math and programming without compensation are frankly a waste of time (if you are not enjoying it, finding fulfillment).
+ As Satre said, we are condemned to be free - to chose what we specialize in, and what we skip, with no one to give us the correct choice.
+If there are N things you could do, every time you do something, there are N-1 things you are not doing in that moment, which are way more than you will ever do.
+I relate to the feeling.
+ For me 'ex falso quod libet' - the idea mixing up truth and falsity once with collapse the foundation of everything I know is worse than any scary movie.
+ The fear I'll forget faster than I learn, or that I'll never really understand.
+ The yearning to understand the world, to know and not doubt.
+If you are able to see some highly technical post you don't understand and then sleep soundly, you far wiser than I.
+ When I've taught people who thought themselves to be dumb, I found that the negative self talk about being dumb was often rooted in either a feeling of guilt/badness or obligation, and the label of dumb solved the unhealthy feeling: "I'm just dumb, nothing I can do".
+ This is even more pronounced in cases where there is some resource the person needs that they don't have, where trying harder causes worse performance, or where they feel obligated to because they think like their preferred activity is less valuable/lower status.
+Realistically, it is necessary to pick how to spend your time, and math and programming without compensation are frankly a waste of time (if you are not enjoying it, finding fulfillment).
+ As Satre said, we are condemned to be free - to chose what we specialize in, and what we skip, with no one to give us the correct choice.
+If there are N things you could do, every time you do something, there are N-1 things you are not doing in that moment, which are way more than you will ever do.
+I relate to the feeling.
+ For me 'ex falso quod libet' - the idea mixing up truth and falsity once with collapse the foundation of everything I know is worse than any scary movie.
+ The fear I'll forget faster than I learn, or that I'll never really understand.
+ The yearning to understand the world, to know and not doubt.
+If you are able to see some highly technical post you don't understand and then sleep soundly, you far wiser than I.
+ Realistically, it is necessary to pick how to spend your time, and math and programming without compensation are frankly a waste of time (if you are not enjoying it, finding fulfillment).
+ As Satre said, we are condemned to be free - to chose what we specialize in, and what we skip, with no one to give us the correct choice.
+If there are N things you could do, every time you do something, there are N-1 things you are not doing in that moment, which are way more than you will ever do.
+I relate to the feeling.
+ For me 'ex falso quod libet' - the idea mixing up truth and falsity once with collapse the foundation of everything I know is worse than any scary movie.
+ The fear I'll forget faster than I learn, or that I'll never really understand.
+ The yearning to understand the world, to know and not doubt.
+If you are able to see some highly technical post you don't understand and then sleep soundly, you far wiser than I.
+ If there are N things you could do, every time you do something, there are N-1 things you are not doing in that moment, which are way more than you will ever do.
+I relate to the feeling.
+ For me 'ex falso quod libet' - the idea mixing up truth and falsity once with collapse the foundation of everything I know is worse than any scary movie.
+ The fear I'll forget faster than I learn, or that I'll never really understand.
+ The yearning to understand the world, to know and not doubt.
+If you are able to see some highly technical post you don't understand and then sleep soundly, you far wiser than I.
+ I relate to the feeling.
+ For me 'ex falso quod libet' - the idea mixing up truth and falsity once with collapse the foundation of everything I know is worse than any scary movie.
+ The fear I'll forget faster than I learn, or that I'll never really understand.
+ The yearning to understand the world, to know and not doubt.
+If you are able to see some highly technical post you don't understand and then sleep soundly, you far wiser than I.
+ If you are able to see some highly technical post you don't understand and then sleep soundly, you far wiser than I.
+ 
+reply
+
+ 
+reply
+
+ 
+
+ There, it felt like I learned a lot by experimenting hands-on.
+ That's probably what I need to do more in this situation too.
+ In a structured fashion.
+The line between being a "generalist" and "knowing a little about a lot, but not enough about anything to do anything" is fine.
+ The line between being a "generalist" and "knowing a little about a lot, but not enough about anything to do anything" is fine.
+ 
+reply
+
+ To the OP, if you find something interesting but it's above your head dig in and you'll learn.
+  Otherwise just smile and nod.
+  I'm by no means a software engineer though I can (and do) write code to get various jobs done.
+  Lots of stuff here is interesting to me but lots also is of no interest and/or way above my pay grade.
+  I'm happy to be surrounded by stuff that has the potential to challenge me to grow.
+ 
+reply
+
+ 
+reply
+
+ Those are dumb dumbs pretending to be smart.
+ That is much worse on many levels.
+Funny that many of the scientific concepts I encountered over the years that seemed to not make sense turned out to be actual nonsense and pseudoscience.
+It's like they had a smell but I didn't know what was causing the smell until much later.
+Virology is a good example of this.
+ Total nonsense.
+ They don't even have one sample of even one virus -- anywhere.
+ In the world.
+ It's a boogeyman.
+ Funny that many of the scientific concepts I encountered over the years that seemed to not make sense turned out to be actual nonsense and pseudoscience.
+It's like they had a smell but I didn't know what was causing the smell until much later.
+Virology is a good example of this.
+ Total nonsense.
+ They don't even have one sample of even one virus -- anywhere.
+ In the world.
+ It's a boogeyman.
+ It's like they had a smell but I didn't know what was causing the smell until much later.
+Virology is a good example of this.
+ Total nonsense.
+ They don't even have one sample of even one virus -- anywhere.
+ In the world.
+ It's a boogeyman.
+ Virology is a good example of this.
+ Total nonsense.
+ They don't even have one sample of even one virus -- anywhere.
+ In the world.
+ It's a boogeyman.
+ 
+reply
+
+
+
+URL: https://news.ycombinator.com/item?id=40620764

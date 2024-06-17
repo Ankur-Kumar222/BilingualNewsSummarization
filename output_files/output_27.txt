@@ -1,0 +1,150 @@
+Comment It’s WWDC 2024 keynote time! Each year Apple kicks off its Worldwide Developers Conference with a few hours of just straight announcements, like the long-awaited Apple Intelligence and a makeover for smart AI assistant, Siri.
+ We expected much of them to revolve around the company’s artificial intelligence ambitions (and here), and Apple didn’t disappoint.
+ We also bring you news about Vision Pro and lots of feature refreshes.
+  Here’s how to watch the archive of WWDC 2024.
+ Developers should expect hardware and software updates, per the usual, and some other items we initially thought would be unveiled.
+ Brian Heater also went on Equity to dish.
+ Now sit back and relax while the team runs down all of the biggest news in an easy-to-skim digest.
+ Apple is making it easier for people to discover the content inside their apps using natural language — or “semantic” — queries.
+ Already, Spotlight has been able to search for content in developers’ apps, but it would only return results when search terms matched exactly.
+ With this year’s addition of semantic search capabilities, people will be able to search for content in apps using search terms that are just similar in meaning.
+ Read more Now that people are using developer betas and exploring the sessions at the event, more features that were not announced onstage are surfacing.
+ Remember that only certain devices will be compatible with iOS 18 when it’s released later in the fall.
+ Read more Instead, Apple is adding a new two-step permissions pop-up screen that will first ask users to allow or deny access to their contacts, as before, and then, if the user allows access, will allow them to choose which contacts they want to share, if not all.
+ Read more Brian Heater writes about consistently requesting this certain feature from Apple: the ability to pause your activity rings.
+ If you’re down due to a cold, on an international flight, or find that you’re vigorously shaking your wrist at 9 p.
+m.
+ just to finish closing your rings, you can now pause progress via the Watch or through the connected iPhone app.
+ Read more Apple has been on a spree of late, announcing a host of new features for its various devices earlier this week.
+ But a lot of those features were already available to some extent on Apple devices through third-party apps.
+ So, just like the past few years, we will examine the ideas that Apple “Sherlocked” in this year’s updates.
+ Read more The company has since revealed some of what makes its approach to generative AI different.
+ First and foremost is scope.
+ Many of the most prominent companies in the space take a “bigger is better” approach to their models.
+ Read more Instead of trying to overwhelm users with too many AI features to count, the Cupertino tech giant is carefully rolling out AI where it believes it could be useful.
+ That means the tech won’t be included where it could be much of a threat to the carefully crafted consumer experience of using an Apple device.
+ Read more Apple delivered two of the biggest features iMessage and its Messages app that consumers were wanting for a long time: the ability to schedule messages to send at a later date and time and support for RCS, the next-gen messaging standard and replacement for SMS that will make texting with Android folks much less painful.
+ Is it the end of the green bubbles? Read more Apple is giving developers more tools to increase their app revenues and promote their apps with win-back offers and the release of a new commerce API.
+ Read more Among the highlights of the new operating system version are a set of customization options, such as being able to arrange apps and widgets on the Home Screen and customize buttons.
+ Other features include new text effects, the ability to lock and hide apps, new ways to manage your Mail inbox, the introduction of iMessages over satellite, a significant redesign of the Photos app and more.
+ Now let’s see if your device is compatible.
+ Read more There was a lot, wasn’t there? Apple’s AI push was at the heart of WWDC 2024, and our AI expert Kyle Wiggers took some time to process all of the announcements before bringing together a guide to all of the news across Siri, Genmoji, ChatGPT integrations, photo editing and beyond.
+ Read more In a post-keynote event, Apple SVP Craig Federighi confirmed that the company would work with other third-party models beyond OpenAI, with Google’s Gemini model being highlighted as the first example.
+ He clarified that Apple had “nothing to announce right now, but that’s our general direction.
+” Read more  Tesla, SpaceX and xAI exec Elon Musk took to X to continue his campaign against rival OpenAI, threatening to ban Apple devices from his businesses “if Apple integrates OpenAI at the OS level,” among other responses and reactions to the conversations around WWDC on X.
+ Read more Before you get too excited about putting Apple Intelligence to the test, check if your devices are new enough.
+ Only the iPhone 15 Pro and 15 Pro Max, along with iPads and Macs with M1 or newer chips, will be able to run the new features coming alongside Apple’s AI push.
+ Read more Apple is bringing ChatGPT, its AI-powered chatbot experience, to Siri and other Apple apps, powered by OpenAI’s GPT-4 and other generative AI models.
+ Read more One of the Apple Intelligence-powered features coming in iOS 18 will allow iPhone users to create AI images of people they’re messaging with — a feature that works something like an AI-upgraded Bitmoji.
+ The goal, of course, is to make your “everyday conversations more enjoyable.
+”  Apple Intelligence will have an understanding of who you’re talking with in a messaging conversation, so if you want to personalize that chat with a custom AI image, you can create one on the fly.
+ Read more For those of you who use Apple TV+, there is a new feature called InSight.
+ The feature will allow viewers to learn actor names and song titles as they appear on the screen.
+ Lauren Forristal writes that it’s similar to Amazon’s X-Ray technology, where Fire TV users get an overview of actor bios and behind-the-scenes information while watching TV shows and movies.
+  What stands out about InSight, however, is its Shazam-like functionality, which highlights the song playing in the TV show or movie and gives users the option to add it to an Apple Music playlist to listen to later.
+ Read more Apple also made some enhancements to its smart assistant, Siri.
+ These include adding some generative AI features that make Siri seem more natural and more personal.
+ There’s also a new glowing light.
+ And, Siri can also handle stumbles in speech and better understand context.
+ Plus, for those who would rather type, you can do that now.
+ Read more The new feature is called Apple Intelligence (AI, get it?).
+ The company promised the feature will be built with safety at its core, along with highly personalized experiences.
+ “Most importantly, it has to understand you and be grounded in your personal context, like your routine, your relationships, your communications and more,” CEO Tim Cook noted at WWDC Monday.
+ “And of course, it has to be built with privacy from the ground up together.
+ All of this goes beyond artificial intelligence.
+ It’s personal intelligence, and it’s the next big step for Apple.
+” Read more That covers the consumer side of things, but WWDC is a conference for developers, and Apple revealed how developers will soon be able to bring the Apple Intelligence experience into their software.
+ A number of AI features will be added to existing SDKs, allowing for generative AI image generation, or new prompts to Siri, to allow devs to expand the Apple Intelligence footprint.
+ Read more While you can already use your iCloud account to store and sync passwords across your devices, it wasn’t easy to figure out.
+ Now, the company introduced a Passwords app.
+ Some of the features include a new column on the left that lets you more easily navigate your password collection.
+ For instance, you can view all your passwords or just Wi-Fi passwords (a new addition), passkeys or codes that aren’t related to a website or service.
+ Read more A new “Smart Script” feature will clean up your handwriting when using an Apple Pencil to write in Notes.
+ Apple says it’s making handwriting your notes even smoother and straighter.
+ The feature improves the appearance of your writing as you write by using on-device machine learning to recreate your handwriting from your notes.
+ You’ll see your own handwriting, just smoother and more legible.
+ Read more Who would have thought a calculator would liven up a developer’s conference? Well, Apple’s new Calculator for iPad app got everyone excited.
+ iOS’ perennial tips calculating app is finally coming to the larger screen.
+ The feature utilizes the additional screen real estate to bring new features that the company couldn’t really jam into the iPhone.
+ The biggest arrival here is the addition of Math Notes.
+ The additional feature does the math for you.
+ Read more The latest operating system version is called macOS Sequoia.
+ One of the biggest features of this new OS is iPhone mirroring.
+ Now, through macOS’ Continuity feature, you can mirror your iPhone’s screen and control it right from your Mac.
+ Notifications on Mac pop you into iPhone mirror mode, and iPhone audio comes through the Mac as well, but the paired iPhone stays locked while in mirror mode.
+ Read more OK, let’s do a little deeper dive into iPhone mirroring.
+ While Apple didn’t detail many use cases for the feature, Sarah Perez writes that it seems it would make it easier to demo apps over video calls or in person, as users could move between a slideshow presentation and a live demo of the iPhone app by launching it as if it’s another app on your Mac.
+ Read more This new feature works much like Apple’s emergency SOS feature.
+ When you have no signal, you’ll be given the option to find a satellite to relay the data.
+ You’ll have to keep the phone pointed in the right direction while you do it, however, there’s an overlay above your messages to remind you.
+ Read more Apple showed off the new Photos app as it will appear in the upcoming release of the iOS software.
+ The new app introduces new navigation, new organizational features and other ways to discover your favorite photos, including those of friends, family, pets, trips and more.
+ Some things to know: The new design will lead to less time searching for photos as it puts everything you need within easy reach.
+ One major change involves how the app has been unified into a single view with the photo grid at the top and the library, organized by theme, below.
+ Read more One of the more interesting additions is Tap to Cash, which is more or less what it sounds like, letting users pay for things by tapping together a pair of iPhones.
+ As Brian Heater writes, the feature is effectively an outgrowth of Apple Pay’s longstanding Tap to Pay feature.
+ Similarly, the new addition likely uses the device’s NFC functionality.
+ Apple notes that the feature transfers money without having to share any personal info — a nice added privacy element.
+ Read more Users will now be able to lock an app when they hand over their phone to do things like show someone a picture or let them play a game.
+ When you lock an app, if someone tries to tap your phone, they will be required to authenticate using Face ID, Touch ID or their passcode.
+ While you have the app lock feature enabled, information from inside the app won’t appear in other places, like search and notifications.
+ Read more Apple also shared some initial details for the upcoming major release of iOS, which is its operating system specifically designed for the iPhone.
+ As expected, much of this involves artificial intelligence.
+ Remember when icons were locked to the grid? Well, they can now be laid out however you want on your home screen so that they don’t hide your background photos.
+ “iOS 18 is a big release that delivers more ways to customize your iPhone, stay connected and relive special moments,” Apple SVP of software engineering Craig Federighi said.
+ Read more Speaking of icons, most of these updates are those long-requested functionalities, like the ability to set app icons and widgets wherever you want on the Home Screen, plus support for dark mode icons with different color schemes.
+ Read more visionOS 2 brings with it productivity enhancements and “new immersive experiences.
+” One lets you “spatialize” photos from regular photos, leveraging AI tech.
+ Another is a new navigation option: visionOS 2 lets you switch to the home screen by just tapping, or flip your hand over to bring up the control center with notifications, shortcuts and more.
+ Read more One of the bigger announcements with this includes the ability to turn existing images into spatial photos.
+ The new feature utilizes machine learning to build out additional angles, marking a change from the existing method, which required images to be shot on an iPhone 15 Pro or the Vision Pro itself.
+ Read more For those of you outside of the U.
+S.
+, the Vision Pro headset will be available in eight new countries.
+ Read more Apple has fallen behind its peers in the AI race, and it probably feels like it needs to pull out all the stops to impress fans and shareholders.
+ But that shouldn’t mean overpromising on features.
+ Read more For smart assistants: While rumors point to the company transitioning a number of employees to generative AI operations following its electric car implosion, all signs point to Apple having ceded a significant head start to the competition.
+ As such, its most logical play is a partnership with a reigning powerhouse like OpenAI.
+ Read more Maybe not for iPhone 15: Some other rumors say that when this generative AI comes into play, a limited number of older devices will also be able to run the system, including iPads and Macs running an M1 chip or higher and the iPhone 15 Pro.
+ That means the standard iPhone 15 may be left out in the cold on this one.
+ Read more Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+ Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+ The latest Fintech news and analysis, delivered every Tuesday.
+ TechCrunch Mobility is your destination for transportation news and insight.
+ By submitting your email, you agree to our Terms and Privacy Notice.
+
+			 After announcing a strategic partnership with SoftBank in April, Perplexity — the AI search engine that has ambitions to take on Google — is now using the deal to expand…  When Manny Griffiths worked with a personal injury lawyer after his wife’s car accident, he was surprised by the lack of information and communication from their lawyer regarding their claim.
+…  Featured Article Proton, the Swiss company behind a suite of privacy-focused apps such as ProtonMail, is following in the footsteps of Signal and Mozilla by transitioning to a new non-profit foundation model.
+ The newly setup Proton Foundation will serve as the main shareholder to the existing corporate entity that is Proton AG,…  Tinybird is not so tiny anymore.
+ The enterprise data startup TechCrunch first covered three years ago has been growing at a rapid pace and recently raised a $30 million Series…  Oyo, the Indian budget-hotel chain startup, is finalizing a fresh fundraise of about $100 million to $125 million that slashes its valuation to $2.
+5 billion, two people familiar with the…  Featured Article ChatGPT, one of the world’s most powerful artificial intelligence tools, struggles with cultural nuance.
+  Holy procrastination, startup founders! Tomorrow’s your last chance to apply to the Startup Battlefield 200 at TechCrunch Disrupt 2024.
+ Your last chance for a shot to stand on the Disrupt…  The Clicks keyboard case has arrived, and it’s delightful, if not entirely practical for everyday use — at least, not without weeks of practice.
+   YouTube continues its efforts to circumvent ad blockers.
+ Earlier this week, ad blocker SponsorBlock posted that the Google-owned video service is testing out server-side ad injection with a limited number…  Care/of, a company offering personalized subscription vitamin packs, says it will be canceling all subscriptions as of Monday, June 17 and will no longer be accepting new orders.
+ The news…  Welcome back to TechCrunch’s Week in Review — TechCrunch’s newsletter recapping the week’s biggest news.
+ Want it in your inbox every Saturday? Sign up here.
+ Apple’s Worldwide Developers Conference had…  No one knows what AI looks like, or even is supposed to look like.
+ It does everything, but looks like nothing.
+  There has been a lot of bad news about social media startups lately.
+ Multiple companies, including Twitter alternative Post News, and IRL have shut down.
+ And ShareChat’s valuation has dropped…  OpenAI offers an array of plans for ChatGPT, both paid and free.
+  FTC Chair Lina Khan was the youngest person appointed to her position when she assumed the job in 2021.
+ But once her term ends in September –  after which she’ll…  Satellite imagery startup Albedo is preparing for its up-close-and-personal debut.
+ Albedo’s first satellite will take to orbit next spring as the company looks to turn the commercial Earth observation industry…  Tempus, a genomic testing and data analysis company started by Eric Lefkofsky, who previously founded Groupon, debuted on Nasdaq on Friday, rising about 15% on the opening.
+  The company priced…  Featured Article The tech layoff wave is still going strong in 2024.
+ Following significant workforce reductions in 2022 and 2023, this year has already seen 60,000 job cuts across 254 companies, according to independent layoffs tracker Layoffs.
+fyi.
+ Companies like Tesla, Amazon, Google, TikTok, Snap and Microsoft have conducted sizable layoffs in the…  Welcome to Startups Weekly — Haje’s weekly recap of everything you can’t miss from the world of startups.
+ Sign up here to get it in your inbox every Friday.
+ Hold…  How well did the company do telling its own story in the form of its angel pitch deck? Let’s take a look.
+  The Browser Company’s Arc, a web browser that aims to have a less cluttered user interface, launched a “Live Calendar” feature to ensure you never miss a call or run…  Meta has confirmed that it will pause plans to start training its AI systems using data from its users in the European Union and U.
+K.
+ The move follows pushback from…  Privacy-focused search engine and web browser company Brave Software is integrating search results into its Leo chatbot.
+ Search results are based on the Brave Search API and Leo is integrated…  For centuries, people chewed willow tree bark to relieve pain, but scientists at chemical firm Bayer didn’t isolate its active ingredient until the 1800s and eventually patented its modified version…  We could be entering a renaissance for human spaceflight research, as a record number of private citizens head to space — and as scientists improve techniques for gathering data on…  The high-profile addition is likely intended to satisfy critics who think that OpenAI is moving faster than is wise for its customers and possibly humanity.
+  Tesla CEO Elon Musk has secured enough shareholder votes to have his 2018 stock option compensation package approved.
+ Shareholders also approved the company’s decision to re-incorporate Tesla in Texas, moving…  From a new Nominations dashboard in App Store Connect, developers will be able to create their nominations, either one by one or by uploading a spreadsheet to nominate apps in…  StepStone raised the largest fund dedicated to investing in venture secondaries ever, the firm announced last week.
+ This fundraise doesn’t just say a lot about StepStone’s venture secondaries investing prowess,…  Spotify announced on Thursday that it’s venturing further into the ad space with its first in-house creative agency called Creative Lab, helping brands create custom marketing campaigns.
+ It will also…  Powered by WordPress VIP
+
+URL: https://techcrunch.com/2024/06/10/everything-apple-announced-wwdc-2024/

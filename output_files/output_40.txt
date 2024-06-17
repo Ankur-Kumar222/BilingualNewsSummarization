@@ -1,0 +1,52 @@
+Cardiovascular disease is the leading cause of death in the United States, primarily due to atherosclerosis (plaque buildup) affecting the heart and vascular system.
+ While traditional risk factors like high blood pressure, diabetes, and metabolic syndrome are well-known, the role of specific dietary components on atherosclerotic cardiovascular disease is less clear.
+  Choline, an essential nutrient found in animal- and plant-based foods, is gaining attention for its potential heart health benefits, though its role in atherosclerosis remains debated.
+ Observational studies, including one recently published in the Journal of Health, Population, and Nutrition, have suggested higher choline intake may lower cardiovascular disease risk.
+  However, some animal studies indicate that choline might increase the risk of heart disease, and there is a lack of human clinical trials.
+  Now, a new observational study published in BMC Public Health aimed to clarify the link between choline intake and atherosclerotic cardiovascular disease in U.
+S.
+ adults.
+  The second aim was to look at how choline affects metabolic syndrome and its risk factors, which contribute to atherosclerotic cardiovascular disease.
+ Results showed that moderate choline intake was associated with a lower risk of atherosclerotic cardiovascular disease.
+ However, there was no significant association between choline intake and metabolic syndrome.
+ Despite mixed study results, experts recognize the potential for adequate choline intake to support heart health and disease prevention.
+ This cross-sectional study examined data from 5,525 American adults 20 years and older, collected through the National Health and Nutrition Examination Survey (NHANES) between 2011 and 2018.
+  The average participant age was 48, with nearly equal numbers of men and women.
+  Most were non-Hispanic white, had low physical activity levels, and over 76% had abdominal obesity.
+ The researchers identified atherosclerotic cardiovascular disease in participants who had at least one of the following: Participants were divided into two groups: 5,015 participants with atherosclerotic cardiovascular disease and 510 without.
+  Metabolic syndrome was determined by the presence of at least three risk factors: high fasting blood sugar, blood pressure, triglycerides, waist circumference, or low high-density lipoprotein (HDL) cholesterol.
+  Researchers categorized participants as having conditions like diabetes, hypertension, and dyslipidemia based on blood values or medication use.
+ The researchers used two 24-hour dietary surveys from each NHANES participant to calculate their average choline intake.
+ Participants’ choline intake was divided into four quartiles, placing each participant into one of four groups based on their intake.
+ Using statistical software, the team analyzed how choline intake relates to atherosclerotic cardiovascular disease.
+ They considered demographic and lifestyle factors and looked at differences by sex and choline intake levels.
+ The study results suggest that optimal heart health benefits from choline intake may occur at specific levels, with both too little and too much being less beneficial.
+ Choline intake of around 244 milligrams daily for women and 367 milligrams daily for men appeared to offer heart health benefits.
+ These amounts are lower than the National Institutes of Health‘s adequate intakes for adults 19 years and older, which are listed as 425 milligrams for women and 550 milligrams daily for men.
+  In their adjusted analysis, the researchers found that choline intake in the third quartile was potentially linked to lower odds of congestive heart failure and stroke.
+  However, consuming more than 342 milligrams per day seemed to slightly increase the risk of heart failure, although it didn’t notably affect stroke risk.
+ This may be due to the brain’s ability to manage excess choline, the study authors noted.
+  Overall, an inverse and non-linear relationship between choline and atherosclerotic cardiovascular disease was observed, less notably in men.
+ The present study found no significant link between choline intake and metabolic syndrome and its components despite the syndrome being a strong predictor of mortality in heart disease.
+  This finding contrasts recent research that suggested higher choline intake was associated with lower levels of certain metabolic syndrome components in adults with obesity.
+  The study’s observational nature, reliance on dietary questionnaires, and lack of plasma TMAO data may limit its accuracy.
+  The study authors also note that a sensitivity analysis revealed that the protective effect of choline on atherosclerotic cardiovascular disease loses statistical significance after adjusting for participants’ total calorie intake.
+ Philip Nimoityn, MD, FACC, a physician at Cardiology Consultants of Philadelphia and Clinical Assistant Professor of Medicine at Thomas Jefferson University, not involved in the study, spoke with Medical News Today about the results.
+  Nimoityn noted, “The non-linear relationship is consistent with the pattern that more of a good nutritional supplement is not always better.
+” However, he also pointed out a major flaw in the study design: arteriosclerotic cardiovascular disease was diagnosed based on the presence of heart conditions, but not all congestive heart failure or strokes are due to arteriosclerotic disease.
+ “The data analysis was clearly compromised by combining different diseases as if they were necessarily the same.
+ Based on this, the conflicting conclusions were not surprising,” he said.
+  “Prospective, controlled trials with better determination of dietary choline intake and analysis of disease outcomes with more specific and consistent definition of various cardiac disease states [are needed],” Nimoityn stated.
+  MNT also spoke with Kiran Campbell, RDN, a registered dietitian who specializes in heart health at Kiran Campbell Nutrition and is a medical nutrition advisor at Dietitian Insights.
+ Campbell was not involved in the study.
+  “The best way to get an adequate amount of choline each day is to follow a balanced diet that includes various types of choline-rich foods,” she advised.
+ Campbell highlighted some of the best food sources of choline, including: “Most U.
+S.
+ adults do not consume adequate amounts of choline and may need to consume more,” Campbell noted.
+  However, instead of increasing consumption of animal-based foods high in saturated fat, she recommends opting to consume more lean protein and plant-based dietary choline sources.
+  Nimoityn added: “A well-balanced heart-healthy diet is likely to contain adequate amounts of choline without incurring the risk of possible overdosing with commercially available nutritional supplement products.
+ This appears to be true for all populations.
+” He concluded by emphasizing the importance of combining a heart-healthy diet with other “proven and accepted measures,” including regular exercise (if safe per the patient’s doctor), avoiding smoking, preventing obesity, and aggressively managing cholesterol and triglyceride levels and inflammation as needed.
+
+
+URL: https://www.medicalnewstoday.com/articles/eating-more-choline-may-help-lower-heart-disease-risk
