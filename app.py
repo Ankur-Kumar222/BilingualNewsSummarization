@@ -7,7 +7,7 @@ from transformers import BartTokenizer, BartForConditionalGeneration, MBartForCo
 st.set_page_config(layout="wide")
 
 # Load the data
-with open('trial.json', 'r') as f:
+with open('news.json', 'r') as f:
     data = [json.loads(line) for line in f]
 
 # Convert to DataFrame
@@ -103,12 +103,12 @@ for category, tab in zip(categories, st.tabs(categories)):
             # Filter the DataFrame based on category for other segments
             filtered_df = df[df['description'].str.contains(category, case=False, na=False)]
 
-        st.write(f"Filtered {len(filtered_df)} rows for category {category}")
+        # st.write(f"Filtered {len(filtered_df)} rows for category {category}")
 
         # Collect all articles from the filtered DataFrame
         articles = []
         for _, row in filtered_df.iterrows():
-            st.write(f"Processing row with id {row['id']}")
+            # st.write(f"Processing row with id {row['id']}")
             if isinstance(row['data'], str):
                 try:
                     articles.extend(json.loads(row['data'].replace("'", '"')))
@@ -118,7 +118,7 @@ for category, tab in zip(categories, st.tabs(categories)):
             elif isinstance(row['data'], list):
                 articles.extend(row['data'])
 
-        st.write(f"Collected {len(articles)} articles for category {category}")
+        # st.write(f"Collected {len(articles)} articles for category {category}")
 
         if articles:
             display_news(articles, category)  # Pass the category to ensure unique keys
