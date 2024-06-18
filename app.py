@@ -17,7 +17,15 @@ df = pd.DataFrame(data)
 categories = ["India", "World", "Business", "Entertainment", "Technology", "Sports", "Science"]
 
 # Map categories to Source Names for India
-india_sources = ["google-news-in", "the-times-of-india", "the-hindu"]
+india_sources = ["google-news-in"]
+world_sources = ['abc-news', 'al-jazeera-english', 'bbc-news', 'cbs-news','google-news', 'new-york-magazine',
+       'the-washington-post', 'time']
+sports_sources = ['fox-sports', 'talksport']
+science_sources = ['medical-news-today', 'national-geographic', 'new-scientist',  'wired']
+business_sources = [ 'business-insider', 'business-insider-uk', 'fortune', 'cnn']
+tech_sources = ['hacker-news', 'techcrunch', 'the-verge']
+entertainment_sources = ['vice-news', 'buzzfeed']
+
 
 # Cache the models and tokenizers
 @st.cache_resource
@@ -45,7 +53,7 @@ if 'translations' not in st.session_state:
 
 # Function to summarize an article
 def summarize_article(text):
-    inputs = bart_tokenizer(text, max_length=1024, return_tensors='pt', truncation=True)
+    inputs = bart_tokenizer(text, max_length=2048, return_tensors='pt', truncation=True)
     summary_ids = bart_model.generate(inputs['input_ids'], num_beams=4, max_length=150, early_stopping=True)
     summary = bart_tokenizer.decode(summary_ids[0], skip_special_tokens=True)
     return summary
@@ -99,9 +107,24 @@ for category, tab in zip(categories, st.tabs(categories)):
         if category == "India":
             # Filter the DataFrame based on source names for India
             filtered_df = df[df['id'].isin(india_sources)]
-        else:
-            # Filter the DataFrame based on category for other segments
-            filtered_df = df[df['description'].str.contains(category, case=False, na=False)]
+        elif category == "World":
+            # Filter the DataFrame based on source names for World
+            filtered_df = df[df['id'].isin(world_sources)]
+        elif category == "Business":
+            # Filter the DataFrame based on source names for Business
+            filtered_df = df[df['id'].isin(business_sources)]
+        elif category == "Entertainment":
+            # Filter the DataFrame based on source names for Entertainment
+            filtered_df = df[df['id'].isin(entertainment_sources)]
+        elif category == "Technology":
+            # Filter the DataFrame based on source names for Technology
+            filtered_df = df[df['id'].isin(tech_sources)]
+        elif category == "Sports":
+            # Filter the DataFrame based on source names for Sports
+            filtered_df = df[df['id'].isin(sports_sources)]
+        elif category == "Science":
+            # Filter the DataFrame based on source names for Science
+            filtered_df = df[df['id'].isin(science_sources)]
 
         # st.write(f"Filtered {len(filtered_df)} rows for category {category}")
 
